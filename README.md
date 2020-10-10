@@ -1,6 +1,6 @@
 # KellStauffer
 
-This is the personal repository for McKell Woodland.
+This is the personal repository for McKell Woodland (previously Stauffer).
 It contains the code for a few of my very early deep learning projects (2017).
 
 ## code
