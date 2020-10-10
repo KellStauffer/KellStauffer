@@ -25,4 +25,3 @@ In other words, I take the style of one photo and the content of another and gen
 
 This project uses a recurrent neural network to generate text in a Markov Chain like fashion.
 I used it to generate verses from the Bible and Taylor Swift lyrics.
-It is the base code that I used my poetry generation project.
